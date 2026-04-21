@@ -41,8 +41,29 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
+  - name: Sendero
     uniqueID: 2217221545
+    locked: 0
+  - name: Celdas
+    uniqueID: 279820561
+    locked: 0
+  - name: Pasto
+    uniqueID: 102095755
+    locked: 0
+  - name: Castillo_0
+    uniqueID: 4292584641
+    locked: 0
+  - name: Castillo_1
+    uniqueID: 2613927317
+    locked: 0
+  - name: Castillo_2
+    uniqueID: 2249850491
+    locked: 0
+  - name: Castillo_3
+    uniqueID: 3459966585
+    locked: 0
+  - name: Decoraciones
+    uniqueID: 1192494131
     locked: 0
   m_RenderingLayers:
   - Default
